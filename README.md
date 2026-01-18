@@ -94,13 +94,14 @@ The final output is an **interactive dashboard** designed for quick business und
 
 ---
 
-## 💡 Key Insights
-- Sales show a steady month-over-month growth trend
-- A few categories contribute the majority of revenue
-- Order demand is concentrated in specific cities
-- B2C orders dominate total sales volume
-- Shipping service level has a visible impact on order volume
-- Most orders are successfully shipped, indicating stable logistics performance
+## 🔍 Key Business Insights
+
+- **Revenue Concentration Risk:** A small number of product categories contribute most of the revenue, increasing dependency risk.
+- **Demand–Revenue Imbalance:** Some high-order cities generate low revenue, indicating low average order value.
+- **B2C Volume vs B2B Stability:** B2C drives volume, while B2B provides more stable and predictable revenue.
+- **Shipping Speed Impact:** Expedited shipping is associated with higher order volume and revenue contribution.
+- **Hidden Logistics Risk:** Orders marked as “On the Way” highlight potential delivery delays despite high shipment completion.
+- **Sustained Growth Pressure:** Continuous cumulative sales growth indicates rising operational and fulfillment pressure.
 
 ---
 
