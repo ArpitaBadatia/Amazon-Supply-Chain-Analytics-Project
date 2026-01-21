@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on building a **Supply Chain & Sales Analytics dashboard** using **Excel, SQL, and Power BI**.  
-The objective is to analyze sales performance, demand trends, and logistics efficiency, and present insights in a clean, recruiter-friendly dashboard.
+The objective is to analyze sales performance, demand trends, and logistics efficiency, and present insights in a clean way.
 
 ---
 
